@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61cea378c591131cf28f1ec5"
+  },
+  "author": "super man",
+  "avatar": "/avatar/superman.jpg"
+},{
+  "_id": {
+    "$oid": "61cea38cc591131cf28f21b8"
+  },
+  "author": "spider man",
+  "avatar": "/avatar/spiderman.jpg"
+},{
+  "_id": {
+    "$oid": "61cea39cc591131cf28f23e5"
+  },
+  "author": "super mario",
+  "avatar": "/avatar/mario.jpg"
+},{
+  "_id": {
+    "$oid": "61cea410c591131cf28f349c"
+  },
+  "author": "alien",
+  "avatar": "/avatar/alien.jpg"
+}]
